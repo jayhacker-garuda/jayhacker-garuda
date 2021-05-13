@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jayhacker-garuda
+- 👀 I’m interested in technology and coding
+- 🌱 I’m currently learning PHP and HTML
+- 💞️ I’m looking to collaborate on any project to enhance my abilities
+- 📫 How to reach me coming soon
