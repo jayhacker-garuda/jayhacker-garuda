@@ -3,6 +3,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sham Don Top Coder</h1>
 <h3 align="center">A Full Stack Developer in training from Jamaica.</h3>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jayhacker-garuda)
+
+
 
 ## 🙋‍♂️ About Me
 - ⚡ I’m currently learning **Laravel-8 & Livewire.**
@@ -40,12 +43,13 @@
     <a href="https://github.com/jayhacker-garuda/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="jayhacker-garuda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-    <figure><embed src="https://wakatime.com/share/@5754f229-6be9-4860-9c61-34f54be175fc/0106bd83-6ead-4cca-983e-a9692ef5ddc5.svg"></embed></figure>
 
-## 📊 My Github Stats
+
 
   <br/>
-    <a href="https://github.com/jayhacker-garuda/github-readme-stats"><img alt="jayhacker-garuda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jayhacker-garuda&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <h2> 📊My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+
+![Metrics](https://metrics.lecoq.io/jayhacker-garuda?template=classic&config.timezone=America%2FToronto)
   <a href="https://github.com/jayhacker-garuda/github-readme-stats"><img alt="jayhacker-garuda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayhacker-garuda&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -54,20 +58,21 @@
 <br/>
 <br/>
 
-<a href="https://github.com/jayhacker-garuda/github-readme-activity-graph"><img alt="jayhacker-garuda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jayhacker-garuda&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
+<h2> Stuff I worked on last week  <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 70px> </h2>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@ShamDon&compact=True"/>
+</a>
+<br>
 <br/>
 
 ## Connect with me:
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/shamar-stewart-583304195/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/jayhacker-garuda/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=jayhacker-garuda">
-</a>
-<a href="https://github.com/jayhacker-garuda?tab=followers"><img src="https://img.shields.io/github/followers/jayhacker-garuda?label=Followers&style=social" alt="GitHub Badge"></a>
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
